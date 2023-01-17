@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-mvc-app.lesson6" />
         <module name="spring-mvc-app.lesson7" />
+        <module name="SpringDataJpa.lesson1" />
         <module name="spring-mvc-app.lesson4" />
         <module name="spring-mvc-app.lesson11" />
         <module name="spring-mvc-app.lesson3" />
