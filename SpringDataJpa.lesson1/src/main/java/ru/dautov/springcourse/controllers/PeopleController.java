@@ -10,8 +10,6 @@ import ru.dautov.springcourse.services.PeopleService;
 
 import javax.validation.Valid;
 
-
-
 @Controller
 @RequestMapping("/people")
 public class PeopleController {
